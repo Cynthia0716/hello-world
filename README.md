@@ -1,4 +1,4 @@
 # hello-world
 try to create a new repo
 
-This isa commit message
+This is a commit message
